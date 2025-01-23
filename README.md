@@ -1,4 +1,4 @@
-Repo for testing varbase locally and in CDE. 
+Repo for testing varbase (Drupal Distribution) locally and in CDE. 
 
 
 
